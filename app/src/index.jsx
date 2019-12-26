@@ -31,5 +31,5 @@ class App extends React.Component {
 }
 
 render(
-<App />, document.querySelector("#app")
+<App />, document.querySelector("")
 )
